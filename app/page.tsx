@@ -1,5 +1,7 @@
-// Zee AI Testing Dashboard (Next.js with Playwright execution buttons)
-// Paste into app/page.tsx in a Next.js project
+/**
+ * Zee AI Testing Dashboard (Next.js with Playwright execution buttons)
+ * Author: Zee Hashmi
+ */
 
 'use client';
 

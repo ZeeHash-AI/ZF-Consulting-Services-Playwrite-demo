@@ -1,3 +1,7 @@
+/**
+ * Author: Zee Hashmi
+ */
+
 import { exec } from "child_process";
 import path from "path";
 

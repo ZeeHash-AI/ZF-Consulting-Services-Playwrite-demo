@@ -1,6 +1,7 @@
 {
   "name": "zee-ai-testing-dashboard",
   "version": "0.1.0",
+  "author": "Zee Hashmi",
   "private": true,
   "scripts": {
     "dev": "next dev",
